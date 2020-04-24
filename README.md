@@ -2,11 +2,25 @@
 
 This project consisits of some algorithms in C++.
 
+## Algorithms
+
+### Search algorithms
+
+1. Binary search
+2. Breadth-first search (unfinished)
+
+### Sort algorithms
+
+1. Bubble sort
+2. Insertion sort
+3. Choose sort
+4. Shell sort
+5. Quick sort
+
 ## Getting Started
 
-It's not such project, as you can use in real-world projects. It's just an example of implementation of some algorithms.  
-But if you wish you can test these algorithms by following this steps:
-1. Clone the repository or download archive 
+To get a copy of this algorithms do the following:
+1. Clone the repository or download archive
 ```
 git clone https://github.com/sanchouz12/CPP-algorithms
 ```
@@ -14,11 +28,12 @@ git clone https://github.com/sanchouz12/CPP-algorithms
 
 ### Prerequisites
 
-If you want to test the algorithms, you'll need to install Visual Studio 2019.
+If you want to test or modify the algorithms, you'll need to install Visual Studio.
 
 ## Built With
 
-* Visual Studio 2019 and C++.
+* C++
+* Visual Studio 2019.
 
 ## Contributing
 
