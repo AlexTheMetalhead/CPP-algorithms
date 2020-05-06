@@ -19,7 +19,8 @@ This project consisits of some algorithms in C++.
 
 ## Getting Started
 
-To get a copy of this algorithms do the following:
+### Installing
+
 1. Clone the repository or download archive
 ```
 git clone https://github.com/sanchouz12/CPP-algorithms
